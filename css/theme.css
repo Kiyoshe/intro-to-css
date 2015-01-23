@@ -1,0 +1,24 @@
+html {
+  background-color: #2ab5e9;
+}
+
+h1, h2 {font-weight: /* normal, bold /*
+  font-size: 5rem;
+  font-style: italic; normal, italic
+  text-decoration: /*underline; underline, line-through/
+  font-family: 'Fredoka One', cursive;
+  line-height: 1.5 ;
+ }
+ ol{list-style-type: none;
+ }
+ li{
+
+ }
+ .cute { color: red;
+
+ }
+ a{ color: purple;
+
+ }
+
+ a:hover {color: white;}
